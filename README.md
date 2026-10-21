@@ -47,15 +47,21 @@ O funcionamento da aplicação pode ser visualizado através do vídeo:
 2. Abrir a solução `GestaoPensao.slnx` no Visual Studio.
 3. Executar a aplicação através de `Ctrl + F5`.
 
+
 ## Estrutura do projeto
 
-    GestaoPensao/
-    ├── demo/
-    │   └── PensaoGestV1.mp4
-    ├── 09_pensao7.cs
-    ├── Program.cs
-    ├── GestaoPensao.csproj
-    └── README.md
+```text
+GestaoPensao/
+├── GestaoPensao/
+│   ├── 09_pensao7.cs
+│   ├── Program.cs
+│   └── GestaoPensao.csproj
+├── GestaoPensao.slnx
+├── .gitignore
+├── .gitattributes
+└── README.md
+```
+
 
 ## Autora
 
