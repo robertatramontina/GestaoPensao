@@ -32,7 +32,7 @@ Aplicação de consola desenvolvida em C# no âmbito da formação de Software D
 
 O funcionamento da aplicação pode ser visualizado através do vídeo:
 
-[Ver demonstração da aplicação](demo/PensaoGestV1.mp4)
+[Ver demonstração da aplicação](https://youtu.be/5vtXx-yhL9w)
 
 ## Como executar
 
